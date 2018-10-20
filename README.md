@@ -1,2 +1,0 @@
-# sektorltda.github.io
-website
